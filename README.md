@@ -1,6 +1,3 @@
-Certainly! Below is an example of a README file for a lipreading project:
-
----
 
 # Lipreading Model
 
@@ -60,6 +57,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - This project was inspired by the work of [Reference Author](https://github.com/reference-author).
 - Special thanks to [Contributor Name](https://github.com/contributor-name) for their contributions to the project.
 
----
-
-Feel free to customize the content and structure of the README file according to your project's specific requirements and preferences.
+--
